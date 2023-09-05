@@ -1,0 +1,26 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* mrp_fix_french_translation
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-05 08:49+0000\n"
+"PO-Revision-Date: 2023-09-05 08:49+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: mrp_fix_french_translation
+#: model_terms:ir.ui.view,arch_db:mrp_fix_french_translation.view_mrp_production_workorder_form_view_filter_inherited
+msgid "Waiting components"
+msgstr "En attente de composants"
+
+#. module: mrp_fix_french_translation
+#: model_terms:ir.ui.view,arch_db:mrp_fix_french_translation.view_mrp_production_workorder_form_view_filter_inherited
+msgid "Waiting linked workorder"
+msgstr "En attente d'un autre ordre de travail"
